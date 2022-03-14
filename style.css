@@ -68,3 +68,10 @@ ul {
 .btn-add {
   text-align: right;
 }
+#addbtn{
+  padding: 10px;
+  width: 62px;
+  background: repeating-linear-gradient(45deg, black, transparent 100px);
+  color: white;
+  font-size: 18px;
+}
