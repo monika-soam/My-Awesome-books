@@ -1,0 +1,48 @@
+  * {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .header {
+    border: 2px solid black;
+  }
+  
+  .heading h1 {
+    text-align: center;
+  }
+  
+  ul {
+    text-align: right;
+  }
+  
+  .logo {
+    float: left;
+    width: 50%;
+  }
+  
+  .link a,
+  .logo a {
+    color: black;
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 900;
+    padding: 2%;
+  }
+  
+  .link {
+    display: inline;
+    text-decoration: none;
+    text-align: right;
+  }
+  
+  .books-list {
+    border: 2px solid black;
+  }
+  
+  .button-remove {
+    text-align: right;
+  }
+  
+  .date-time {
+    text-align: right;
+  }
