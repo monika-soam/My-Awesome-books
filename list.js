@@ -25,32 +25,11 @@ function removeBook(i) {
   localStorage.setItem('books', JSON.stringify(books));
   listBooks();
 }
-const nth = function(d) {
-  if (d > 3 && d < 21) return 'th';
-  switch (d % 10) {
-    case 1:
-      return 'st';
-    case 2:
-      return 'nd';
-    case 3:
-      return 'rd';
-    default:
-      return 'th';
-  }
-};
 
-function dateTime() {
-  const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
-    'July', 'August', 'September', 'October', 'November', 'December',
-  ];
 
-  const date = new Date();
 
-  const dateString = `${monthNames[date.getMonth()]} ${date.getDate()}<sup>${nth(date.getDate())}</sup>` + ` ${date.getFullYear()}, ${date.toLocaleTimeString()}`;
-  timeShow.innerHTML = dateString;
-}
 
 window.onload = () => {
-  dateTime();
+
   listBooks();
 };
