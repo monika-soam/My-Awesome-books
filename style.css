@@ -46,3 +46,9 @@
   .date-time {
     text-align: right;
   }
+  
+  .add-book {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
