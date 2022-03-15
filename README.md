@@ -15,11 +15,19 @@ My Awesome Books is a basic website that allows users to add/remove books from a
 
  
 
+
 👤 **Monika**
 
-- GitHub: https://github.com/monika-soam
+- GitHub: [GitHub](https://github.com/monika-soam)
 - Twitter: @monikasoam
-- LinkedIn: linkedin.com/in/monika-soam-✓-16b59925
+- LinkedIn: [LinkedIn](linkedin.com/in/monika-soam-✓-16b59925)
+
+👤 **Alfred**
+- GitHub:[GitHub](https://github.com/Alfredbis29)
+- Twitter: [Twitter](https://twitter.com/AlfredBisimwa1
+)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kalumuna-bisimwa-0501a81a8/)
+
 
 
 🤝 **Contributing**
