@@ -1,3 +1,4 @@
+/* eslint-disable  */
 import collection from './main1.js'
 
 const addButton = document.getElementById('addbtn');
