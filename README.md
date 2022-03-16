@@ -13,6 +13,29 @@ My Awesome Books is a basic website that allows users to add/remove books from a
 ## Live Demo
 [Live Demo Link]( https://monika-soam.github.io/My-Awesome-books/)
 
+
+Getting Started
+To get the content of this project locally you need to run this command in your terminal:
+
+[My Awesome Books](https://github.com/monika-soam/My-Awesome-books)
+Test For tracking linter errors locally you need to follow these steps:
+
+After cloning the project you need to run this command
+
+`npm install` This command will download all the dependancies of the project
+
+For tracking the linter errors in HTML file run:
+
+`npx hint .`
+
+For tracking the linter errors in CSS file run:
+
+`npx stylelint "\*_/_.{css,scss}"`
+
+And For tracking the linter errors in JavaScript file run:
+
+`npx eslint .`
+
  
 
 
