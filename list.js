@@ -32,4 +32,5 @@ function removeBook(i) {
 window.onload = () => {
 
   listBooks();
+
 };

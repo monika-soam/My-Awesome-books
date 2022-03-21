@@ -76,3 +76,11 @@ ul {
   color: white;
   font-size: 18px;
 }
+
+.visible {
+  display: block;
+}
+
+.invisible {
+  display: none;
+}
